@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Airanshahi995@gmail.com**
 
-- 📄 Know about my experiences [https://uploadkon.ir/uploads/83da12_24Ali-Iranshahi-CV-T.pdf](https://uploadkon.ir/uploads/83da12_24Ali-Iranshahi-CV-T.pdf)](https://uploadkon.ir/uploads/ba9e11_25Aliiranshahi.pdf)
+- 📄 Know about my experiences (https://uploadkon.ir/uploads/ba9e11_25Aliiranshahi.pdf)
 
 - ⚡ Fun fact **i thinking about ...**
 
