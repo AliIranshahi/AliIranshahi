@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [StyleDigi](https://github.com/AliIranshahi/StyleDigi-Project.git)
 
-- 🌱 I’m currently learning **React Framework**
+- 🌱 I’m currently learning **React Framework (Next.js)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AliIranshahi](https://github.com/AliIranshahi)
 
-- 💬 Ask me about **HTML5,Sass,Css,Javascript,Bootstrap or Tailwind**
+- 💬 Ask me about **React && Nextjs or ..**
 
 - 📫 How to reach me **Airanshahi995@gmail.com**
 
